@@ -1,2 +1,2 @@
 # stock_prediction
-stock prediction software
+a stock prediction software
