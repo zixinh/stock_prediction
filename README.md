@@ -1,2 +1,2 @@
 # stock_prediction
-a stock prediction program
+a web-scraping program that can automatically scrape financial data from sina.com
